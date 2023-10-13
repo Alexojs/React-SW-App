@@ -1,0 +1,14 @@
+.error-indicator {
+	margin: auto;
+	margin-bottom: 1.3em;
+	text-align: center;
+	color: #33CCCC;
+	text-shadow: 0 -2px 3px black;
+}
+.error-indicator .boom {
+	font-size: 1.8em;
+	margin-bottom: 0.1em;
+}
+.error-indicator span {
+	margin-bottom: 0.1em;
+}

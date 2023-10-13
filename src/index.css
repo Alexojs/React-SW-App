@@ -1,0 +1,14 @@
+*::selection {
+	color: #0AEEDA;
+	background: #000000;
+}
+
+img {
+	user-select: none;
+	pointer-events: none;
+}
+
+ul {
+	padding: 0;
+	margin: 0;
+}
